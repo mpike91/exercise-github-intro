@@ -1,0 +1,21 @@
+Part 1:
+
+1)
+git init
+touch index.html app.js app.css
+git add .
+git commit -m "created starter files"
+
+2)
+Go to GitHub, create new repository. Grab the URL for the repository.
+git remote add origin https://github.com/mpike91/USF-Exercises.git
+git push origin main
+
+3) 
+git checkout -b new_branch
+touch newindex.html
+git add newindex.html
+git commit -m "created new branch and file"
+
+4)
+git push -u origin new_branch
