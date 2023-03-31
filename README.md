@@ -1,2 +1,2 @@
-# exercise-github-intro
-First exercise practicing github / git commands.
+# Exercise - Git Intro
+First exercise practicing git commands.
